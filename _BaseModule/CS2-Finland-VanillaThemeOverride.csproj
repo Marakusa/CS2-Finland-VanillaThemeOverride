@@ -18,13 +18,13 @@
   <PropertyGroup>
     <IsBelzontCommonsMod>false</IsBelzontCommonsMod>
     <ModId></ModId>
-    <Version>1.0.0.0</Version>
+    <Version>0.1.0.0</Version>
     <GameVersion>1.*</GameVersion>
     <ThumbnailPath>Properties/Thumbnail.png</ThumbnailPath>
-    <DisplayName>Write Everywhere Module Model Project</DisplayName>
+    <DisplayName>Finland Vanilla Theme Override (Write Everywhere)</DisplayName>
     <ShortDescription>Module to use along CS2 version of the mod Write Everywhere</ShortDescription>
     <ForumLink></ForumLink>
-    <GitHubLink></GitHubLink>
+    <GitHubLink>https://github.com/Marakusa/CS2-Finland-VanillaThemeOverride</GitHubLink>
     <YoutubeLink></YoutubeLink>
     <KofiLink></KofiLink>
     <BMACLink></BMACLink>
