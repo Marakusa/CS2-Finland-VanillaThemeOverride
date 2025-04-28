@@ -1,6 +1,6 @@
 <Publish>
   <ModId Value="" />
-  <DisplayName Value="Write Everywhere Module Model Project" />
+  <DisplayName Value="Finland Vanilla Theme Override (Write Everywhere)" />
   <ShortDescription Value="Module to use along CS2 version of the mod Write Everywhere" />
   <LongDescription># Model project for Write Everywhre modules mods
 
@@ -20,10 +20,16 @@ This is a project to be used as starter point to any new module pack of Write Ev
 After that, just don't forget to change the Version parameter in the csproj file if you need to upload new versions of the module!</LongDescription>
   <Thumbnail Value="Properties/Thumbnail.png" />
   <ForumLink Value="" />
-  <ModVersion Value="1.0.0.0" />
+  <ModVersion Value="0.1.0.0" />
   <GameVersion Value="1.*" />
-  <ChangeLog>#  v1.0.0r0
-\&lt;ADD CHANGES HERE\&gt;</ChangeLog>
+  <ChangeLog>#  v0.1.0
+- Initial version of the module.</ChangeLog>
   <Tag Value="Code Mod" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
+  <Dependency Id="74604" ModVersion="" DisplayName="Anarchy" />
+  <Dependency Id="75250" ModVersion="" DisplayName="Better Bulldozer" />
+  <Dependency Id="75724" ModVersion="" DisplayName="ExtraLib" />
+  <Dependency Id="80528" ModVersion="" DisplayName="ExtraDetailingTools" />
+  <Dependency Id="80529" ModVersion="" DisplayName="ExtraAssetsImporter" />
+  <ExternalLink Type="github" Url="https://github.com/Marakusa/CS2-Finland-VanillaThemeOverride" />
 </Publish>
