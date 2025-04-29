@@ -4,7 +4,7 @@
       <transform>
         <offsetPosition x="-0" y="1.825001" z="0.053" />
         <offsetRotation x="-0" y="0" z="0" />
-        <scale x="0.6" y="0.6" z="0.025" />
+        <scale x="0.65" y="0.65" z="0.025" />
       </transform>
       <whiteMesh />
       <decalStyle decalFlags="32" affectSmoothness="true" affectAO="true" affectEmission="true" drawOrder="2">
@@ -18,7 +18,7 @@
         <transform>
           <offsetPosition x="0" y="0" z="0" />
           <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.55" y="0.55" z="0.025" />
+		  <scale x="0.68" y="0.68" z="0.025" />
         </transform>
         <imageMesh atlas="Finland">
           <image>SignParking</image>
@@ -36,7 +36,7 @@
       <transform>
         <offsetPosition x="0" y="1.335996" z="0.053" />
         <offsetRotation x="-0" y="0" z="0" />
-        <scale x="0.6" y="0.275" z="0.025" />
+        <scale x="0.7" y="0.3" z="0.025" />
       </transform>
       <whiteMesh />
       <decalStyle decalFlags="32" affectSmoothness="true" affectAO="true" affectEmission="true" drawOrder="2">
@@ -50,7 +50,7 @@
         <transform>
           <offsetPosition x="0" y="0" z="0" />
           <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.25" y="0.75" z="0.025" />
+          <scale x="0.25" y="0.25" z="0.025" />
         </transform>
         <imageMesh atlas="Finland">
           <image>SignWarningCityServicesOnly</image>

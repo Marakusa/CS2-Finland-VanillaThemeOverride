@@ -40,26 +40,6 @@
 			<ModId>92908</ModId>
 			<DisplayName>Write Everywhere</DisplayName>
 		</Dependency>
-		<Dependency Include="Anarchy">
-			<ModId>74604</ModId>
-			<DisplayName>Anarchy</DisplayName>
-		</Dependency>
-		<Dependency Include="BetterBulldozer">
-			<ModId>75250</ModId>
-			<DisplayName>Better Bulldozer</DisplayName>
-		</Dependency>
-		<Dependency Include="ExtraLib">
-			<ModId>75724</ModId>
-			<DisplayName>ExtraLib</DisplayName>
-		</Dependency>
-		<Dependency Include="ExtraDetailingTools">
-			<ModId>80528</ModId>
-			<DisplayName>ExtraDetailingTools</DisplayName>
-		</Dependency>
-		<Dependency Include="ExtraAssetsImporter">
-			<ModId>80529</ModId>
-			<DisplayName>ExtraAssetsImporter</DisplayName>
-		</Dependency>
 	</ItemGroup>
 
 

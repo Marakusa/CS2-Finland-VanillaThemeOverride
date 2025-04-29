@@ -26,10 +26,5 @@ After that, just don't forget to change the Version parameter in the csproj file
 - Initial version of the module.</ChangeLog>
   <Tag Value="Code Mod" />
   <Dependency Id="92908" ModVersion="" DisplayName="Write Everywhere" />
-  <Dependency Id="74604" ModVersion="" DisplayName="Anarchy" />
-  <Dependency Id="75250" ModVersion="" DisplayName="Better Bulldozer" />
-  <Dependency Id="75724" ModVersion="" DisplayName="ExtraLib" />
-  <Dependency Id="80528" ModVersion="" DisplayName="ExtraDetailingTools" />
-  <Dependency Id="80529" ModVersion="" DisplayName="ExtraAssetsImporter" />
   <ExternalLink Type="github" Url="https://github.com/Marakusa/CS2-Finland-VanillaThemeOverride" />
 </Publish>
