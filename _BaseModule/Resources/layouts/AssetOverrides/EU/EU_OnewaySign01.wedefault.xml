@@ -18,7 +18,7 @@
         <transform>
           <offsetPosition x="0" y="0" z="0" />
           <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.9" y="0.9" z="0.025" />
+          <scale x="0.78" y="0.78" z="0.025" />
         </transform>
         <imageMesh atlas="Finland">
           <image>SignGoAhead</image>

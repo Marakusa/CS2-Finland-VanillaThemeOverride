@@ -18,7 +18,7 @@
         <transform>
           <offsetPosition x="0" y="0" z="0" />
           <offsetRotation x="-0" y="0" z="0" />
-		  <scale x="0.68" y="0.68" z="0.025" />
+		  <scale x="0.62" y="0.62" z="0.025" />
         </transform>
         <imageMesh atlas="Finland">
           <image>SignParking</image>
@@ -50,7 +50,7 @@
         <transform>
           <offsetPosition x="0" y="0" z="0" />
           <offsetRotation x="-0" y="0" z="0" />
-          <scale x="0.25" y="0.25" z="0.025" />
+          <scale x="0.28" y="0.28" z="0.025" />
         </transform>
         <imageMesh atlas="Finland">
           <image>SignWarningCityServicesOnly</image>
